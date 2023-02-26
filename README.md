@@ -24,6 +24,8 @@
   </p>
   
   ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
+  
+  ![snake gif](https://github.com/taebong1012/taebong1012/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
