@@ -26,6 +26,8 @@
   ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
   
   ![snake gif](https://github.com/taebong1012/taebong1012/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href="https://www.buymeacoffee.com/mh7y48f866i" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
