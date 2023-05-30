@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
-    
   </p>
   
   
