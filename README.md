@@ -1,3 +1,4 @@
+<div>
 <h4>🌊 Taehyun An 🌊</h4>
       <a href="https://velog.io/@taebong1012" target="_blank">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -22,6 +23,6 @@
 <div align="center">
   ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
 </div>
-  
+ </div>
   
 
