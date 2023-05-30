@@ -21,12 +21,10 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
     
   </p>
   
   ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
-  
-  ![snake gif](https://github.com/taebong1012/taebong1012/blob/output/github-contribution-grid-snake.svg)
   
 </div>
