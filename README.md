@@ -1,9 +1,7 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=F4A141&height=200&section=header&text=Hi,%20there&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20taehyun&descAlignY=53&descAlign=56)
-  
-  <!--  내 사이트들  -->
-  <p align="center">
+</div>
+
     <h4>🌊 Taehyun An 🌊</h4>
       <a href="https://velog.io/@taebong1012" target="_blank">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -25,6 +23,10 @@
     
   </p>
   
-  ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
   
+<div align="center">
+  ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
 </div>
+  
+  
+
