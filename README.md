@@ -21,6 +21,7 @@
   
    
   ![taebong1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=taebong1012&hide=contribs&theme=flag-india)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksxogus1012)](https://solved.ac/dksxogus1012/)
 
  </div> 
   
