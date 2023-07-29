@@ -1,6 +1,7 @@
 <div>
 <h4>🌊 Taehyun An 🌊</h4>
-      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaebong1012&count_bg=%231FBCFF&title_bg=%23C4C4C4&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%AA&edge_flat=true" /></a>
+      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdksxogus1012&count_bg=%23009EFF&title_bg=%23009EFF&icon=iconify.svg&icon_color=%23E7E7E7&title=HI&edge_flat=true"/>
+      </a>
       <a href="https://velog.io/@taebong1012" target="_blank">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
       </a>
